@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Shathikka 👋
 
 
 - Computer Science student currently studying at Keele Univeristy
