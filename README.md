@@ -1,7 +1,8 @@
 ## Hi I'm Shathikka 👋
 
 
-- Computer Science student currently studying at Keele Univeristy
+- I am Computer Science student sharing my tech journey
+- I am currently studying at Keele Univeristy
 
 
 # 💻 Coding 
