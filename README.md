@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+- Computer Science student currently studying at Keele Univeristy 
 <!--
 **shath16/shath16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
